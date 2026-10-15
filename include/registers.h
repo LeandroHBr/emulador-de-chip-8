@@ -1,6 +1,7 @@
 #ifndef REGISTERS_H
 #define REGISTERS_H
 #include "config.h"
+
 struct registers
 {
     uint8_t V_registers[V_REGISTERS_NUMBER];
